@@ -1,4 +1,4 @@
-## Markup 사용 방법
+## Markup 기본 기능
 
 ### 문단
 - enter 한번    
@@ -29,7 +29,6 @@
 ### Block Quotes - 인용문
 - 문단의 시작에 `>`를 작성
 
-ex)
 > A quotation is the repetition of a sentence, phrase, or passage from speech or text that someone has said or written.
 
 ### Lists - 목록
@@ -65,7 +64,6 @@ public class Main {
 ```
 - 해석 서비스에 따라 코드에 사용하는 언어를 알려주면 해당 언어의 문법에 맞게 색 변화 적용 가능
 
-ex)
 ```java
 public class Main {
   public static void main(String[] args) {
@@ -85,8 +83,7 @@ ex)
 - `<>` 안에 링크 작성시 연결 가능
 - `[]()` 대괄호 안에 텍스트, 소괄호 안에 링크 작성시 텍스트 클릭으로 링크 접속 가능
 
-ex)   
-[네이버](https://www.naver.com)
+ex) [네이버](https://www.naver.com)
 
 ### Images - 이미지
 - `![]()` 대괄호에 이미지 이름, 소괄호에 이미지 위치 삽입시 이미지 추가 가능  
