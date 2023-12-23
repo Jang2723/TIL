@@ -1,6 +1,14 @@
-# TIL :fire:
+# :fire: TIL :fire:
 
 ## Makrdown
 
-- [Markdown, Markup language](Markdown/README.md)
-- [Markdown 사용 방법](Markdown/markdown.md)
+- [Markdown & Markup Language](Markdown/README.md)
+- [Markdown 기본 기능](Markdown/MarkdownUse.md)
+
+## Git
+- [Git](Git/README.md)
+- [Git 기본 기능](Git/GitUse.md)
+
+## Github
+- [Github](Github/README.md)
+- [Github 기본 기능](Github/GithubUse.md)
