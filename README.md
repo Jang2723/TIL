@@ -14,8 +14,13 @@
 - [Github 기본 기능](Github/GithubUse.md)
 
 ## Java
-- [01.Java 개요](Java/01.Java%20Overview.md)
-- [02.변수와 자료형](Java/02.Variables%20and%20Types.md)
+- [Java 개요](Java/_01_Java/01.Java%20Overview.md)
+- 변수와 자료형
+  - [02-1. 변수](Java/_02_Variables_and_Types/02-1.%20Variables.md)
+  - [02-2. 자료형](Java/_02_Variables_and_Types/02-2.%20Types.md)
+  - [02-3. 데이터 입력받기](Java/_02_Variables_and_Types/02-3.%20Scanner.md)
+  - [02-4. 문자열 응용](Java/_02_Variables_and_Types/02-4.%20StringApplication.md)
+  - [02-5. 배열](Java/_02_Variables_and_Types/02-5.%20Array.md)
 
 
 
