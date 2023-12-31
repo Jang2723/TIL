@@ -24,8 +24,11 @@
   - [02-6. 데이터 표현](Java/_02_Variables_and_Types/02-6.%20Data%20Expression.md)
 - [연산자](Java/_03_Operators/03.operators.md)
 - [제어문](Java/_04_Control_Statements/README.md)
-  - [조건문](Java/_04_Control_Statements/04_1.조건문.md)
+  - [조건문](Java/_04_Control_Statements/04-1.조건문.md)
   - [반복문](Java/_04_Control_Statements/04-2.반복문.md)
+- [메세드](Java/_05_Java_Method/05.%20Method.md)
+
+
 ## HTML
 
 ## CSS
