@@ -26,7 +26,7 @@
 - [제어문](Java/_04_Control_Statements/README.md)
   - [조건문](Java/_04_Control_Statements/04-1.조건문.md)
   - [반복문](Java/_04_Control_Statements/04-2.반복문.md)
-- [메세드](Java/_05_Java_Method/05.%20Method.md)
+- [메서드](Java/_05_Java_Method/05.%20Method.md)
 
 
 ## HTML
