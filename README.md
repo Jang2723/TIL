@@ -27,6 +27,10 @@
   - [조건문](Java/_04_Control_Statements/04-1.조건문.md)
   - [반복문](Java/_04_Control_Statements/04-2.반복문.md)
 - [메서드](Java/_05_Java_Method/05.%20Method.md)
+- [클래스](Java/_06_Class/readme.md)
+  - [객체와 클래스](Java/_06_Class/06-1.객체와%20클래스.md)
+  - [접근 제어자](Java/_06_Class/06-2.%20접근제어자.md)
+  - [Java 데이터 저장](Java/_06_Class/06-3.Java%20데이터저장.md)
 
 
 ## HTML
@@ -36,3 +40,6 @@
 ## DB
 
 ## Spring Boot
+- [Validation](SpringBoot/Validation/README.md)
+  - [예외처리](SpringBoot/Validation/exception.md)
+  - [유효성 검증(Validation)](SpringBoot/Validation/validation.md)
