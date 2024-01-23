@@ -3,7 +3,7 @@
 ### throw new ResponseStatusException();
 어디서든 간편하게 사용할 수 있는 예외   
 별도의 작업 없이 간편하게 사용 가능   
-똑같은 코드를 여러번 반복하게 되는 단저밍 존재
+똑같은 코드를 여러번 반복하게 되는 단점이 존재
 ```java
 public UserDto  updateUser(Long id, UserDto dto){
     Optional<UserEntity> optionalUser = repository.findById(id);

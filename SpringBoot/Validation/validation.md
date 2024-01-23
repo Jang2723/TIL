@@ -57,7 +57,7 @@ public class UserController{
 - `@Min` : 최소 크기 지정
 - `@Future` : 미래 날짜를 나타내는 Java 클래스('YYYY-MM-DD')
 - `@NotNull` : NULL이 될 수 없음
-- `@NotEmpty` : 문자열, 리스트 등이 비어있을 수 없음, size가 0이 안이면 됨(공백 가능)
+- `@NotEmpty` : 문자열, 리스트 등이 비어있을 수 없음, size가 0이 아니면 됨(공백 가능)
 - `@NotBlank` : 문자열이 공백이 아님, 공백으로 표햔되는 문자 외의 문자가 존재
 ----
 ### 일부 유효성 검사 (@Validated)
