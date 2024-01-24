@@ -43,3 +43,4 @@
 - [Validation](SpringBoot/Validation/README.md)
   - [예외처리](SpringBoot/Validation/exception.md)
   - [유효성 검증(Validation)](SpringBoot/Validation/validation.md)
+  - [사용자 지정 유효성 검사](SpringBoot/Validation/customValidation.md)

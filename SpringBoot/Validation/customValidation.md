@@ -2,6 +2,11 @@
 ### 사용자 지정 유효성 검사
 만들어 볼 수 있는 것
 - 이메일 검사기
+  - annotation
+    - EmailWhitelist
+    - EmailBlacklist
+  - EmailWhitelistValidator
+  - EmailBlacklistValidator
 - 요일을 문자로 표현하기 (mon, tue, wed, thu, fri, sat, sun)
 - 주민등록번호 검사기
 - 비밀번호 강도측정 (zxcvbn)
