@@ -1,3 +1,4 @@
+```java
 package Validation;
 
 import com.example.validation.constraints.annotations.EmailBlackList;
@@ -35,3 +36,5 @@ public class EmailBlacklistValidator
         return !blacklist.contains(domain);
     }
 }
+
+```

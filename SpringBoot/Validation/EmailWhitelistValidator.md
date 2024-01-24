@@ -1,3 +1,4 @@
+```java
 package Validation;
 
 import com.example.validation.constraints.annotations.EmailWhitelist;
@@ -39,3 +40,4 @@ public class EmailWhitelistValidator
         return whiteList.contains(domain);
     }
 }
+```
