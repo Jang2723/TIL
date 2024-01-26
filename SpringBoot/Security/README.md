@@ -4,3 +4,4 @@
 
 1. [Spring Security Starter](1.Spring_Security_Starter.md)
 2. [Form Login](2.Form_Login.md)
+3. [UserDetailsManager](3.UserDetailsManager.md)
