@@ -64,3 +64,5 @@
   - [1. GrantedAuthority](SpringBoot/Authorization/1.GrantedAuthority.md)
   - [2. 권한에 따른 접근 제어](SpringBoot/Authorization/2.접근제어.md)
   - [3. Article 응용](SpringBoot/Authorization/Article/3.Article응용.md)
+- [OAuth2](SpringBoot/OAuth2/README.md)
+  - [네이버 아이디로 로그인 구성](SpringBoot/OAuth2/1.네이버_아이디로_로그인_구성.md)
