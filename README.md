@@ -60,3 +60,7 @@
   - [2. SecurityFilterChain](SpringBoot/JWT/2.SecurityFilterChain.md)
   - [3. JWT 발급](SpringBoot/JWT/3.JWT발급.md)
   - [4. JWT를 이용한 인증](SpringBoot/JWT/4.JWT를_이용한_인증.md)
+- [Authorization](SpringBoot/Authorization/README.md)
+  - [1. GrantedAuthority](SpringBoot/Authorization/1.GrantedAuthority.md)
+  - [2. 권한에 따른 접근 제어](SpringBoot/Authorization/2.접근제어.md)
+  - [3. Article 응용](SpringBoot/Authorization/Article/3.Article응용.md)
