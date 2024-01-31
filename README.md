@@ -66,3 +66,4 @@
   - [3. Article 응용](SpringBoot/Authorization/Article/3.Article응용.md)
 - [OAuth2](SpringBoot/OAuth2/README.md)
   - [네이버 아이디로 로그인 구성](SpringBoot/OAuth2/1.네이버_아이디로_로그인_구성.md)
+  - [카카오 아이디로 로그인 구성](SpringBoot/OAuth2/2.카카오_아이디로_로그인_구성.md)
