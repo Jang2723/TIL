@@ -14,3 +14,4 @@ public class DemoController{
     }
 }
 ```
+- 실행 후 `http://localhost:8080/home` 이동 -> 결과 확인
