@@ -60,7 +60,10 @@
   - [DELETE](/SpringBoot/Spring_MVC_CRUD/5.Delete.md)
 
 - [Mybatis Framework](SpringBoot/MyBatis%20Framework/MyBatis.md)
-
+- [JPA](SpringBoot/JPA/README.md)
+  - [1. JPA 시작](SpringBoot/JPA/1.JPA시작.md)
+  - [2. JpaRepository](SpringBoot/JPA/2.JpaRepository.md)
+  - [3. ManyToOne & OneToMany](SpringBoot/JPA/3.ManyToOne&OneToMany.md)
 
 
 
