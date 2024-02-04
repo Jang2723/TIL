@@ -52,12 +52,13 @@
   - [HTML Form](/SpringBoot/Spring_MVC&Thymeleaf/3.HTML_Form.md)
 
 
-- 💡 [Sprinv MVC CRUD](/SpringBoot/Spring_MVC_CRUD/README.md)💡
+- 💡 [Spring MVC CRUD](/SpringBoot/Spring_MVC_CRUD/README.md)💡
   - [CREATE](/SpringBoot/Spring_MVC_CRUD/1.Create.md)
   - [READ ALL](/SpringBoot/Spring_MVC_CRUD/2.Read_All.md)
   - [READ ONE](/SpringBoot/Spring_MVC_CRUD/3.Read_One.md)
   - [UPDATE](/SpringBoot/Spring_MVC_CRUD/4.Update.md)
   - [DELETE](/SpringBoot/Spring_MVC_CRUD/5.Delete.md)
+
 
 - [Mybatis Framework](SpringBoot/MyBatis%20Framework/MyBatis.md)
 
@@ -69,6 +70,9 @@
 
 
 - [Spring Beans](SpringBoot/Spring_Beans.md)
+
+
+- [Spring Logging](SpringBoot/)
 
 - [Validation](SpringBoot/Validation/README.md)
   - [예외처리](SpringBoot/Validation/exception.md)
