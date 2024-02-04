@@ -72,7 +72,13 @@
 - [Spring Beans](SpringBoot/Spring_Beans.md)
 
 
-- [Spring Logging](SpringBoot/)
+- [Spring Logging](SpringBoot/Spring_Logging.md)
+
+
+- [Spring Profiles](SpringBoot/Spring_Profiles.md)
+
+
+
 
 - [Validation](SpringBoot/Validation/README.md)
   - [예외처리](SpringBoot/Validation/exception.md)
