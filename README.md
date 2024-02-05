@@ -79,7 +79,6 @@
 
 
 
-
 - [Validation](SpringBoot/Validation/README.md)
   - [예외처리](SpringBoot/Validation/exception.md)
   - [유효성 검증(Validation)](SpringBoot/Validation/validation.md)
@@ -112,8 +111,14 @@
 - [OAuth2](SpringBoot/OAuth2/README.md)
   - [네이버 아이디로 로그인 구성](SpringBoot/OAuth2/1.네이버_아이디로_로그인_구성.md)
   - [카카오 아이디로 로그인 구성](SpringBoot/OAuth2/2.카카오_아이디로_로그인_구성.md)
-
+----
 ## [Web](Web/README.md)
 - [1. OSI & TCP/IP](Web/1.OSI&TCP-IP.md)
 - [2. HTTP](Web/2.HTTP.md)
 - [3. Java EEE & Spring](Web/3.Java_EE&Spring.md)
+
+----
+## [HTTP](HTTP/README.md)
+- [1. Serialization & JSON](HTTP/1.Serialization&JSON.md)
+- [2. RequestMapping](HTTP/2.RequestMapping.md)
+- [3. HTTP Message](HTTP/3.HTTP_Message.md)
