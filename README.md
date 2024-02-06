@@ -77,7 +77,15 @@
 
 - [Spring Profiles](SpringBoot/Spring_Profiles.md)
 
+- [Spring Boot & REST](SpringBoot/SpringBoot&REST/README.md)
+  - [1. RESTful](SpringBoot/SpringBoot&REST/1.RESTful.md)
+  - [2. Spring Boot로 RESTful 구현](SpringBoot/SpringBoot&REST/2.Spring_Boot로_RESTful_구현.md)
+  - [3. Query Parameter 활용](SpringBoot/SpringBoot&REST/3.Query_Parameter_활용.md)
 
+
+
+- file handling
+----
 
 - [Validation](SpringBoot/Validation/README.md)
   - [예외처리](SpringBoot/Validation/exception.md)
