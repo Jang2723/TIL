@@ -63,7 +63,9 @@ public class EmailWhitelistValidator
   }
 }
 ```
-- `ConstraintValidator`: 실제 유효성 검사 로직이 담기는 클래스
+- `ConstraintValidator`: 실제 유효성 검사 로직이 담기는 클래스, 두 가지 파라미터 정의
+  - 1. 어떤 어노테이션에 대해서 적용할 검증기인지
+  - 2. 이 어노테이션이 붙어서 검증할 대상 데이터의 자료형
 - `<EmailWhitelist, String>`: 검사할 어노테이션과 대상 타입
 ```java
   public EmailWhitelistValidator() {
@@ -73,3 +75,42 @@ public class EmailWhitelistValidator
 ``` 
 - 생성자에서 whitelist를 만들고
 - `isValid`메서드: 입력받은 값이 whitelist에 포함되는지 검증
+> 💡 `@Valid` 어노테이션 활용하는 경우, 어노테이션 적용 순서가 반드시 검증 순서와 일치한다는 보증이 없다!
+
+
+- `value.split` 이전에 `value`가 null인지 검증하는 것이 안전
+---
+### 어노테이션에 설정 전달
+- 어노테이션을 필드에 작성하는 단계에서 특정 값을 전달하여 검증 과정에 활용
+- 검증에 사용할 정보를 전달할 추가 Element 정의
+```java
+@Target(ElementType.FIELD)
+@Retention(RetentionPolicy.RUNTIME)
+@Constraint(validatedBy = EmailBlacklistValidator.class)
+public @interface EmailBlacklist {
+    String message() default "Email in blacklist";
+    Class<?>[] groups() default {};
+    Class<? extends Payload>[] payload() default {};
+
+    String[] blacklist() default {};
+}
+```
+- 어노테이션 Element는 어노테이션을 추가하는 단계에서 인자로 전달 가능
+```java
+@EmailBlacklist(blacklist = "malware.good")
+private String email;
+```
+- 이 추가한 인자를 활용하고자 한다면 `ConstraintValidator`의 `initialize` 메서드를 오버라이딩 해서 구현
+- `initialize` 메서드의 인자로 필드에 적용된 어노테이션이 전달, 선던 당시에 활용한 인자의 값 확인도 가능
+```java
+public class EmailBlacklistValidator 
+        implements ConstraintValidator<EmailBlacklist, String> {
+    Set<String> blacklist;
+
+    @Override
+    public void initialize(EmailBlacklist annotation) {
+        this.blacklist = new HashSet<>();
+        this.blacklist.addAll(Arrays.asList(annotation.blacklist()));
+    }
+    ...
+```
