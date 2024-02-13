@@ -82,10 +82,9 @@
   - [2. Spring Boot로 RESTful 구현](SpringBoot/SpringBoot&REST/2.Spring_Boot로_RESTful_구현.md)
   - [3. Query Parameter 활용](SpringBoot/SpringBoot&REST/3.Query_Parameter_활용.md)
 
+ 
+- [File Handling](SpringBoot/File%20Handling/file-handling.md)
 
-
-- file handling
-----
 
 - [Validation](SpringBoot/Validation/README.md)
   - [예외처리](SpringBoot/Validation/exception.md)
