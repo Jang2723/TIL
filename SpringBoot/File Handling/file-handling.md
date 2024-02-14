@@ -20,7 +20,7 @@ spring:
 ```
 --- 
 ## Multipart
-> 💡 [실습](https://github.com/Jang2723/Spring-Multipart)
+> 💡 [실습](https://github.com/Jang2723/likelion-files)
 ### form
 - HTML에서 JS 없이 데이터를 전송(HTTP 요청)할 때는 => `form` 요소 사용
 - 내부에 `input`요소를 이용해 전달할 데이터 정의

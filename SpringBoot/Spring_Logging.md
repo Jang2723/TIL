@@ -1,5 +1,5 @@
 ## Spring Logging 
-> 💡 github : [Spring-Config](https://github.com/Jang2723/Spring-Config)
+> 💡 github : [Spring-Config](https://github.com/Jang2723/likelion-Config)
 ### Logging 이란?
 - 우리의 코드가 일으킨 결과를 확인할 때 만이 쓰던 것
   - `System.out.println` => 코드를 실행한 터미널에 인자 출력

@@ -91,10 +91,10 @@
   - [유효성 검증(Validation)](SpringBoot/Validation/validation.md)
   - [사용자 지정 유효성 검사](SpringBoot/Validation/customValidation.md)
 
-
-- [Testing](SpringBoot/Testing/README.md)
-  - [Builder 패턴](SpringBoot/Testing/1.Builder_Pattern.md)
-
+----
+- 💡💡💡💡💡💡[Testing](SpringBoot/Testing/README.md)
+  - [Builder 패턴](SpringBoot/Testing/1.Builder_Pattern.md) ???
+----
 
 - [Security](SpringBoot/Security/README.md)
   - [1. Spring Security Starter](SpringBoot/Security/1.Spring_Security_Starter.md)

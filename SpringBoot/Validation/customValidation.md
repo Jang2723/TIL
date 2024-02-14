@@ -13,7 +13,7 @@
 
 
 ### Annotation 만들기
-- [01/24 사용자 지정 유효성 검사](https://github.com/Jang2723/Springboot-validation)
+- [01/24 사용자 지정 유효성 검사](https://github.com/Jang2723/likelion-validation)
 ```java
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

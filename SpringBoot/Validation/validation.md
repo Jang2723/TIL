@@ -51,7 +51,7 @@ public class UserController{
 ### 사용 사능한 어노테이션
 > 공식문서 - https://beanvalidation.org/2.0/spec/#builtinconstraints
 
-- 간단한 유효성 검증: [github(springboot-validation)](https://github.com/Jang2723/Springboot-validation)
+- 간단한 유효성 검증: [github(springboot-validation)](https://github.com/Jang2723/likelion-validation)
 - `@Size` : 크기 지정 (ex. @Size(min = 8))
 - `@Email` : 이메일 형식
 - `@Min` : 최소 크기 지정

@@ -1,5 +1,5 @@
 ## Spring Profiles
-> 💡 github [/src/main/resources](https://github.com/Jang2723/Spring-Config/tree/main/src/main/resources)   
+> 💡 github [/src/main/resources](https://github.com/Jang2723/likelion-Config/tree/main/src/main/resources)   
 
 
 **Spring Profiles**      

@@ -1,5 +1,5 @@
 ## Spring Boot & REST 💡
-> 💡 github [실습](https://github.com/Jang2723/SpringBoot-Restful-Article-Comment)   
+> 💡 github [실습](https://github.com/Jang2723/likelion-Rest-Article-Comment )   
 > 💡 github [실습2](https://github.com/Jang2723/Spring-restaurant)
 ---
 1. [RESTful](1.RESTful.md)

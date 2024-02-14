@@ -1,6 +1,6 @@
 ## Spring Boot Start
 ### Controller & RequestMapping
-> [Controller & RequestMapping Github](https://github.com/Jang2723/techit-mvc/blob/main/src/main/java/com/example/demo/DemoController.java)
+> [Controller & RequestMapping Github](https://github.com/Jang2723/likelion-mvc/blob/main/src/main/java/com/example/demo/DemoController.java)
 - `@Controller`
   - URL에 따른 요청을 처리하는 메서드를 담아두는 클래스임을 나타낸다.
 - `@RequestMapping`
