@@ -93,7 +93,7 @@
 
 ----
 - 💡💡💡💡💡💡[Testing](SpringBoot/Testing/README.md)
-  - [Builder 패턴](SpringBoot/Testing/1.Builder_Pattern.md) ???
+  - [Builder 패턴](SpringBoot/Testing/Builder_Pattern.md) ???
 ----
 
 - [Security](SpringBoot/Security/README.md)
