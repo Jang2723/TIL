@@ -93,8 +93,11 @@
   - [사용자 지정 유효성 검사](SpringBoot/Validation/customValidation.md)
 
 ----
-- 💡💡💡💡💡💡[Testing](SpringBoot/Testing/README.md)
-  - [Builder 패턴](SpringBoot/Testing/Builder_Pattern.md) ???
+- [Testing](SpringBoot/Testing/README.md)
+  - [Builder 패턴](SpringBoot/Testing/Builder_Pattern.md) 
+  - [1. 소프트웨어 개발 테스트](SpringBoot/Testing/1.software_test.md)
+  - [2. Repository, Service 단위 테스트](SpringBoot/Testing/2.Repository,Service_test.md)
+  - [3. Controller 단위, 통합 테스트](SpringBoot/Testing/3.Controller_test.md)
 ----
 
 - [Security](SpringBoot/Security/README.md)
