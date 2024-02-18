@@ -127,9 +127,9 @@
 - [MappedSuperclass](SpringBoot/MappedSuperclass.md)
 
 
-- [Relations](SpringBoot/JPA/Relations/README.md)
+- 💡[Relations](SpringBoot/JPA/Relations/README.md)💡
   - [1. ManyToMany](SpringBoot/JPA/Relations/1.ManyToMany.md)
-  - [2. Join Talble에 속성 추가](SpringBoot/JPA/Relations/2.JoinTable_속성추가.md)
+  - [2. Join Table 속성 추가](SpringBoot/JPA/Relations/2.JoinTable_속성추가.md)
   - [3. Cascade](SpringBoot/JPA/Relations/3.Cascade.md)
 ----
 ## [Web](Web/README.md)
