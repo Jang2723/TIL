@@ -124,7 +124,13 @@
   - [카카오 아이디로 로그인 구성](SpringBoot/OAuth2/2.카카오_아이디로_로그인_구성.md)
 
 
-- [MappedSuperclass](/SpringBoot/MappedSuperclass.md)
+- [MappedSuperclass](SpringBoot/MappedSuperclass.md)
+
+
+- [Relations](SpringBoot/JPA/Relations/README.md)
+  - [1. ManyToMany](SpringBoot/JPA/Relations/1.ManyToMany.md)
+  - [2. Join Talble에 속성 추가](SpringBoot/JPA/Relations/2.JoinTable_속성추가.md)
+  - [3. Cascade](SpringBoot/JPA/Relations/3.Cascade.md)
 ----
 ## [Web](Web/README.md)
 - [1. OSI & TCP/IP](Web/1.OSI&TCP-IP.md)
