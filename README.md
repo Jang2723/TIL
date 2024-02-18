@@ -92,13 +92,13 @@
   - [유효성 검증(Validation)](SpringBoot/Validation/validation.md)
   - [사용자 지정 유효성 검사](SpringBoot/Validation/customValidation.md)
 
-----
+
 - [Testing](SpringBoot/Testing/README.md)
   - [Builder 패턴](SpringBoot/Testing/Builder_Pattern.md) 
   - [1. 소프트웨어 개발 테스트](SpringBoot/Testing/1.software_test.md)
   - [2. Repository, Service 단위 테스트](SpringBoot/Testing/2.Repository,Service_test.md)
   - [3. Controller 단위, 통합 테스트](SpringBoot/Testing/3.Controller_test.md)
-----
+
 
 - [Security](SpringBoot/Security/README.md)
   - [1. Spring Security Starter](SpringBoot/Security/1.Spring_Security_Starter.md)
@@ -122,6 +122,9 @@
 - [OAuth2](SpringBoot/OAuth2/README.md)
   - [네이버 아이디로 로그인 구성](SpringBoot/OAuth2/1.네이버_아이디로_로그인_구성.md)
   - [카카오 아이디로 로그인 구성](SpringBoot/OAuth2/2.카카오_아이디로_로그인_구성.md)
+
+
+- [MappedSuperclass](/SpringBoot/MappedSuperclass.md)
 ----
 ## [Web](Web/README.md)
 - [1. OSI & TCP/IP](Web/1.OSI&TCP-IP.md)
