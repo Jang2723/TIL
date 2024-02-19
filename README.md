@@ -131,6 +131,12 @@
   - [1. ManyToMany](SpringBoot/JPA/Relations/1.ManyToMany.md)
   - [2. Join Table 속성 추가](SpringBoot/JPA/Relations/2.JoinTable_속성추가.md)
   - [3. Cascade](SpringBoot/JPA/Relations/3.Cascade.md)
+  
+
+- [@Query](SpringBoot/JPA/@Query/README.md)
+  - [1. @Query & JPQL](SpringBoot/JPA/@Query/1.@Query&JPQL.md)
+  - [2. 매개변수 전달](SpringBoot/JPA/@Query/2.매개변수_전달.md)
+  - [3. 집계 함수와 Projection](SpringBoot/JPA/@Query/3.집계함수&Projection.md)
 ----
 ## [Web](Web/README.md)
 - [1. OSI & TCP/IP](Web/1.OSI&TCP-IP.md)
