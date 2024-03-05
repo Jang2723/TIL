@@ -1,4 +1,6 @@
 ## Transaction
+> 💡 github 실습 : [jpa-next](https://github.com/Jang2723/likelion-jpa-next)
+
 
 - [1. Transaction](1.Transaction.md)
 - [2. 영속성 컨텍스트](2.Persistence_Context.md)

@@ -143,6 +143,13 @@
   - [1. Transaction](SpringBoot/Transaction/1.Transaction.md)
   - [2. Persistence Context](SpringBoot/Transaction/2.Persistence_Context.md)
   - [3. 낙관적 락 & 비관적 락](SpringBoot/Transaction/3.Optimistic&Pessimistic_Lock.md)
+
+
+- [N + 1](SpringBoot/JPA/N+1/README.md)
+  - [1. N+1 문제](SpringBoot/JPA/N+1/1.N+1.md)
+  - [2. 즉시 로딩, 지연 로딩](SpringBoot/JPA/N+1/2.즉시로딩-지연로딩.md)
+  - [3. Join 해서 가져 오기](SpringBoot/JPA/N+1/3.Join으로_가져오기.md)
+  - [4. @BatchSize](SpringBoot/JPA/N+1/4.BatchSize.md)
 ----
 ## [Web](Web/README.md)
 - [1. OSI & TCP/IP](Web/1.OSI&TCP-IP.md)
