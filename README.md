@@ -134,7 +134,7 @@
   
 
 - [@Query](SpringBoot/JPA/@Query/README.md)
-  - [1. @Query & JPQL](SpringBoot/JPA/@Query/1.@Query&JPQL.md)
+  - [1. @Query & JPQL](SpringBoot/JPA/@Query/1.@Query.md)
   - [2. 매개변수 전달](SpringBoot/JPA/@Query/2.매개변수_전달.md)
   - [3. 집계 함수와 Projection](SpringBoot/JPA/@Query/3.집계함수&Projection.md)
 
@@ -150,6 +150,12 @@
   - [2. 즉시 로딩, 지연 로딩](SpringBoot/JPA/N+1/2.즉시로딩-지연로딩.md)
   - [3. Join 해서 가져 오기](SpringBoot/JPA/N+1/3.Join으로_가져오기.md)
   - [4. @BatchSize](SpringBoot/JPA/N+1/4.BatchSize.md)
+
+  
+- [Querydsl](SpringBoot/Querydsl/README.md)
+  - [1. Querydsl](SpringBoot/Querydsl/1.Querydsl.md)
+  - [2. Querydsl 사용해보기](SpringBoot/Querydsl/2.Querydsl-use.md)
+  - [3. 기본적인 데이터 조회](SpringBoot/Querydsl/3.기본적인_데이터조회.md)
 ----
 ## [Web](Web/README.md)
 - [1. OSI & TCP/IP](Web/1.OSI&TCP-IP.md)
