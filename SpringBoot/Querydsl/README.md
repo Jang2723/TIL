@@ -10,6 +10,12 @@ Spring Data JPA를 사용하면 JPA의 기능을 강력한 `JpaRepository`를 �
 
 => 그래서 JPQL의 보완적인 역할을 하는 [Querydsl](https://querydsl.com/) 프레임워크를 사용
 
+### Querydsl basics
 - [1. Querydsl](1.Querydsl.md)
 - [2. Querydsl 사용해보기](2.Querydsl-use.md)
 - [3. 기본적인 데이터 조회](3.기본적인_데이터조회.md)
+
+### Querydsl Extra
+- [4. Projection](4.Projection.md)
+- [5. Dynamic Query](5.Dynamic_Query.md)
+- [6. With Spring Data JPA](6.With_Spring_Data_JPA.md)
