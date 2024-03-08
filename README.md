@@ -160,6 +160,9 @@
   - [1. Querydsl](SpringBoot/Querydsl/1.Querydsl.md)
   - [2. Querydsl 사용해보기](SpringBoot/Querydsl/2.Querydsl-use.md)
   - [3. 기본적인 데이터 조회](SpringBoot/Querydsl/3.기본적인_데이터조회.md)
+  - [4. Projection](SpringBoot/Querydsl/4.Projection.md)
+  - [5. 동적 쿼리](SpringBoot/Querydsl/5.Dynamic_Query.md)
+  - [6. With Spring Data JPA](SpringBoot/Querydsl/6.With_Spring_Data_JPA.md)
 ----
 ## [Web](Web/README.md)
 - [1. OSI & TCP/IP](Web/1.OSI&TCP-IP.md)
