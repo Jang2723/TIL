@@ -37,6 +37,8 @@
 ## Algorithm
 - [Tree](Algorithm/Tree/README.md)
 - [Heap](Algorithm/Heap/README.md)
+- [Graph](Algorithm/Graph/README.md)
+- [Greedy](Algorithm/Greedy/README.md)
 
 ## HTML
 
