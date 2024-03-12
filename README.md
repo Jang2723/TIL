@@ -39,6 +39,7 @@
 - [Heap](Algorithm/Heap/README.md)
 - [Graph](Algorithm/Graph/README.md)
 - [Greedy](Algorithm/Greedy/README.md)
+- [Divide & Conquer](Algorithm/Divide&Conquer/README.md)
 
 ## HTML
 
